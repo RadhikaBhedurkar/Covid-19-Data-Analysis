@@ -1,1 +1,3 @@
 # Covid-19-Data-Analysis
+
+This project focuses on analyzing the global impact of COVID-19 using real-world datasets. Python was used for data preprocessing, including handling missing values, aggregating country-level data, and creating key metrics such as active cases and mortality rate. Exploratory Data Analysis (EDA) was performed to identify trends in confirmed cases, deaths, and recoveries over time. The cleaned dataset was then visualized in Tableau through an interactive dashboard featuring KPIs, time-series analysis, geographic maps, and comparative insights across countries. The project aims to provide meaningful insights into the spread and severity of COVID-19 and support data-driven public health decision-making.
